@@ -7,7 +7,7 @@ def add(arg1, arg2):
     """
     Function that adds two arguments
     """
-    return  2 + 5
+    return  arg1 + arg2
 
 def mult(arg1, arg2):
     """
